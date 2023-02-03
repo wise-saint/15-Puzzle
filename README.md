@@ -38,17 +38,17 @@ _Time Complexity, T(n) = O(b<sup>d</sup>) <br>
 Space Complexity, S(n) = O(b<sup>d</sup>) <br>
 Completeness : Yes <br>
 Optimality : Yes <br>_
-### 2.2 Defth First Iterative Deepening (DFID):
+### 3.2 Defth First Iterative Deepening (DFID):
 _Time Complexity, T(n) = O(b<sup>d</sup>) <br>
 Space Complexity, S(n) = O(bd) <br>
 Completeness : Yes <br>
 Optimality : Yes <br>_
-### 2.3 A*:
+### 3.3 A*:
 _Time Complexity, T(n) = O(b<sup>d</sup>) <br>
 Space Complexity, S(n) = O(b<sup>d</sup>) <br>
 Completeness : Yes <br>
 Optimality : Yes <br>_
-### 2.4 Iterative Deepening A* (IDA*):
+### 3.4 Iterative Deepening A* (IDA*):
 _Time Complexity, T(n) = O(b<sup>d</sup>) <br>
 Space Complexity, S(n) = O(bd) <br>
 Completeness : Yes <br>
