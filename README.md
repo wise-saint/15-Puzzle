@@ -10,7 +10,7 @@ Given state of the puzzle is known as the **initial state**. And the ordering of
 ![image](https://user-images.githubusercontent.com/58243776/170693786-20416c17-1d13-4c6a-9685-528eeb893809.png)
 
 ## 2. Algorithms
-### 2.1 Best First Search (BFS):
+### 2.1 Breadth First Search (BFS):
 BFS is a method used for traversing a graph. It starts at any item we want to use as a starting position in a graph, and explores all of the neighbour items at the present depth before moving on to the items at the next depth level.
 ### Pseudocode: 
 Let G be a graph with starting node S and Final node F. Let Q be a queue.<br><br>
@@ -33,7 +33,7 @@ Let G be a graph with starting node S and Final node F. Let Q be a priority queu
 
 ## 3. Properties of Algorithms
 Let G be a graph having starting node S and goal node G. Let the average branching factor be ‘b’ and the depth of G from S be ‘d’.
-### 3.1 Best First Search (BFS):
+### 3.1 Breadth First Search (BFS):
 _Time Complexity, T(n) = O(b<sup>d</sup>) <br>
 Space Complexity, S(n) = O(b<sup>d</sup>) <br>
 Completeness : Yes <br>
